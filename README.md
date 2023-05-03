@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### My name is Nilashis, I'm a Data Professional/Enthusiast from India. 
-I'm currently using Github to publish & store my personal Data Portfolio projects that I do to showcase my ability to make sense of raw data and turn them into useful insights that enables stakeholders to analyze various facts and trends and take data driven decisions based on them.
+I'm currently using Github to publish & store my personal Data Portfolio projects that I do to showcase my ability to make sense of raw data and turn them into useful insights that enables stakeholders to analyze various facts & trends and take data driven decisions based on them.
 
 
 ### 🚀 About Me:
@@ -20,4 +20,4 @@ I'm currently using Github to publish & store my personal Data Portfolio project
 
 ### 🔗 Social media Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilashis-halder//)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nilasish11998@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilasish11998@gmail.com)
