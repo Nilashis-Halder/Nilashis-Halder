@@ -12,8 +12,8 @@ I'm currently using Github to publish & store my personal Data Portfolio project
 
 
 ### 🛠 Skills
-- ⚡ Microsoft Excel (Very Advanced)
-- 🤖 SQL (Any flavor, specialized in T-SQL)
+- 📈 Microsoft Excel (Very Advanced)
+- 🔍 SQL (Any flavor, specialized in T-SQL)
 - 📊 Microsoft Power BI (Power Query, DAX, RLS, Workspace)
 - 🐍 Python for Data Cleaning (Pandas, Scrapy, Beautifulsoup)
 - 🧠 I solve problems via data, no matter whatever tool I have to use for that.
