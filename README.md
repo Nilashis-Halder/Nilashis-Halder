@@ -8,14 +8,15 @@ I'm currently using Github to publish & store my personal Data Portfolio project
 - 🔭 Every industry is becoming more and more reliant on technology as technology is always easier, faster and more cost efficient, Being adaptable to these changes and understanding the tech and using our Analytical, Critical Thinking & Creative minds for implementing them to our benefit is extremely important to build a better future.
 - 💼 I’m currently working in a MNC providing services to a US based Fortune 1000 Real Estate data company (client). As an offshore Data Research & Resolution analyst, our job is to deal with any data related issues, changes or problems in the client database/product, further I'm also working on personal projects on SQL, Power BI, Excel etc. to learn and enhance my Data Skills.
 - 🌱 I'm always passionate about learning new tools & technologies that I can use to be more efficient and further enhance my work, Currently I'm learning Azure Cloud data operations & Python for data analytics.
-- 💬 ask me about anything, i am happy to help and also any feedback/Constrictive criticism for my projects is absolutely welcome. I can be reached through below Social media links or my email.
+- 💬 Ask me about anything, i am happy to help and also any feedback/Constrictive criticism for my projects is absolutely welcome. I can be reached through below Social media links or my email.
 
 
 ### 🛠 Skills
-- ⚡ Microsoft Excel
-- 🤖 T-SQL
-- 📊 Microsoft Power BI, Tableau
-- 👩‍💻 Data research & analysis
+- ⚡ Microsoft Excel (Very Advanced)
+- 🤖 SQL (Any flavor, specialized in T-SQL)
+- 📊 Microsoft Power BI (Power Query, DAX, RLS, Workspace)
+- 🐍 Python for Data Cleaning (Pandas, Scrapy, Beautifulsoup)
+- 🧠 I solve problems via data, no matter whatever tool I have to use for that.
 
 
 ### 🔗 Social media Links
