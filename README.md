@@ -18,8 +18,8 @@ I'm currently using Github to publish & store my personal Data Portfolio project
 - 🐍 Python for Data Cleaning (Pandas, Scrapy, Beautifulsoup)
 - 🧠 I solve problems via data, no matter whatever tool I have to use for that.
 
+[My Resume](https://github.com/user-attachments/files/20855538/Nilashis.Resume.pdf)
 
 ### 🔗 Social media Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilashis-halder/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilasish11998@gmail.com)
-[My Resume](https://github.com/user-attachments/files/20855538/Nilashis.Resume.pdf)
